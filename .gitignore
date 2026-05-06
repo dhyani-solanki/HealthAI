@@ -1,0 +1,55 @@
+# ── Environment & Secrets ──
+.env
+*.env
+backend/.env
+.env.*
+!.env.example
+!backend/.env.example
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual Environments ──
+venv/
+.venv/
+env/
+ENV/
+
+# ── Node.js ──
+node_modules/
+frontend-react/node_modules/
+frontend-react/.next/
+frontend-react/out/
+
+# ── Database & Data ──
+*.sqlite3
+*.db
+backend/chroma_db/
+backend/uploads/
+medical_db/
+
+# ── Reference project (not part of app) ──
+reference/
+
+# ── IDE & OS ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Logs & Temp ──
+*.log
+*.tmp
+.cache/
+
+# ── Windsurf / Cascade ──
+.windsurf/

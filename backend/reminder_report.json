@@ -1,0 +1,251 @@
+{
+  "Lipid Profile": {
+    "category": "Cardiac",
+    "description": "Evaluates cholesterol and triglyceride levels",
+    "best_time": "Morning",
+    "fasting_required": "Yes",
+    "fasting_hours": "9–12",
+    "sample_type": "Blood",
+    "preparation": [
+      "Avoid fatty food 24 hours before test",
+      "Eat light dinner previous night"
+    ],
+    "avoid_before_test": [
+      "Alcohol",
+      "Smoking"
+    ],
+    "instructions": [
+      "Drink only water before test",
+      "No tea or coffee"
+    ],
+    "who_should_take": [
+      "Heart patients",
+      "Obese individuals",
+      "People above 30"
+    ],
+    "frequency": "Every 6 months",
+    "notes": "Measures LDL, HDL, triglycerides"
+  },
+
+  "CBC": {
+    "category": "Blood Test",
+    "description": "Comprehensive snapshot of blood cell health",
+    "best_time": "Morning",
+    "fasting_required": "No",
+    "fasting_hours": "0",
+    "sample_type": "Blood",
+    "preparation": [
+      "Normal diet allowed",
+      "Stay hydrated"
+    ],
+    "avoid_before_test": [
+      "Alcohol"
+    ],
+    "instructions": [
+      "Quick blood sample collection",
+      "No special precautions needed"
+    ],
+    "who_should_take": [
+      "Patients with fatigue",
+      "Infection suspicion",
+      "Routine health checkup"
+    ],
+    "frequency": "Every 6–12 months",
+    "notes": "Includes RBC, WBC, Platelets"
+  },
+
+  "Blood Glucose": {
+    "category": "Diabetes",
+    "description": "Monitors blood sugar levels and diabetes markers",
+    "best_time": "Morning",
+    "fasting_required": "Yes",
+    "fasting_hours": "8–10",
+    "sample_type": "Blood",
+    "preparation": [
+      "Do not eat or drink anything except water",
+      "Avoid sugary foods night before"
+    ],
+    "avoid_before_test": [
+      "Smoking",
+      "Alcohol",
+      "Late-night meals"
+    ],
+    "instructions": [
+      "For fasting test: sample before breakfast",
+      "For postprandial: test 2 hours after meal"
+    ],
+    "who_should_take": [
+      "Diabetic patients",
+      "People with obesity",
+      "Family history of diabetes"
+    ],
+    "frequency": "Regular monitoring (weekly/monthly)",
+    "notes": "Includes fasting, postprandial, HbA1c"
+  },
+
+  "Thyroid Profile": {
+    "category": "Hormonal",
+    "description": "Evaluates thyroid gland function and hormone levels",
+    "best_time": "Morning",
+    "fasting_required": "Not mandatory",
+    "fasting_hours": "0",
+    "sample_type": "Blood",
+    "preparation": [
+      "Take test before thyroid medication",
+      "Maintain consistent timing"
+    ],
+    "avoid_before_test": [
+      "Medication before sample (if instructed)"
+    ],
+    "instructions": [
+      "Follow same time for repeat tests",
+      "Consult doctor for medication timing"
+    ],
+    "who_should_take": [
+      "Women with hormonal imbalance",
+      "Weight fluctuation cases",
+      "Thyroid patients"
+    ],
+    "frequency": "Every 3–6 months",
+    "notes": "Important for metabolism regulation"
+  },
+
+  "Liver Function Test": {
+    "category": "Organ Health",
+    "description": "Assesses liver health and detoxification capacity",
+    "best_time": "Morning",
+    "fasting_required": "Recommended",
+    "fasting_hours": "8–10",
+    "sample_type": "Blood",
+    "preparation": [
+      "Avoid alcohol 24–48 hours before test",
+      "Eat light meals"
+    ],
+    "avoid_before_test": [
+      "Alcohol",
+      "Heavy oily food"
+    ],
+    "instructions": [
+      "Inform doctor about medications",
+      "Follow fasting guidelines if given"
+    ],
+    "who_should_take": [
+      "Liver patients",
+      "Alcohol consumers",
+      "Routine checkup"
+    ],
+    "frequency": "Every 6–12 months",
+    "notes": "Includes SGPT, SGOT, bilirubin"
+  },
+
+  "Kidney Function Test": {
+    "category": "Organ Health",
+    "description": "Evaluates kidney filtration and waste removal",
+    "best_time": "Morning",
+    "fasting_required": "Not always required",
+    "fasting_hours": "0–8",
+    "sample_type": "Blood / Urine",
+    "preparation": [
+      "Stay hydrated",
+      "Avoid high-protein meals before test"
+    ],
+    "avoid_before_test": [
+      "Excess protein intake",
+      "Certain medications (consult doctor)"
+    ],
+    "instructions": [
+      "Follow doctor instructions if creatinine test included",
+      "Normal routine otherwise"
+    ],
+    "who_should_take": [
+      "Diabetic patients",
+      "High BP patients",
+      "Kidney disease patients"
+    ],
+    "frequency": "Every 6 months",
+    "notes": "Includes urea, creatinine"
+  },
+
+  "Vitamin D": {
+    "category": "Nutrition",
+    "description": "Checks Vitamin D levels in blood",
+    "best_time": "Morning",
+    "fasting_required": "Usually No",
+    "fasting_hours": "0-8 (depends on test)",
+    "sample_type": "Blood",
+    "preparation": [
+      "Avoid vitamin supplements 24 hours before test",
+      "Inform doctor about ongoing medications"
+    ],
+    "avoid_before_test": [
+      "Supplements",
+      "Alcohol"
+    ],
+    "instructions": [
+      "Follow lab-specific instructions",
+      "Stay hydrated"
+    ],
+    "who_should_take": [
+      "People with fatigue or weakness",
+      "Patients with nutritional deficiencies",
+      "Elderly individuals"
+    ],
+    "frequency": "Every 6–12 months",
+    "notes": "Important for bone health"
+  },
+
+  "Vitamin B12": {
+    "category": "Nutrition",
+    "description": "Checks Vitamin B12 levels in blood",
+    "best_time": "Morning",
+    "fasting_required": "Usually No",
+    "fasting_hours": "0-8 (depends on test)",
+    "sample_type": "Blood",
+    "preparation": [
+      "Avoid vitamin supplements 24 hours before test",
+      "Inform doctor about ongoing medications"
+    ],
+    "avoid_before_test": [
+      "Supplements",
+      "Alcohol"
+    ],
+    "instructions": [
+      "Follow lab-specific instructions",
+      "Stay hydrated"
+    ],
+    "who_should_take": [
+      "People with fatigue or weakness",
+      "Patients with nutritional deficiencies",
+      "Elderly individuals"
+    ],
+    "frequency": "Every 6–12 months",
+    "notes": "Important for nerve function"
+  },
+
+  "HbA1c": {
+    "category": "Diabetes",
+    "description": "Measures average blood sugar over past 3 months",
+    "best_time": "Anytime",
+    "fasting_required": "No",
+    "fasting_hours": "0",
+    "sample_type": "Blood",
+    "preparation": [
+      "No special preparation needed",
+      "Normal diet allowed"
+    ],
+    "avoid_before_test": [
+      "None specific"
+    ],
+    "instructions": [
+      "Test can be done anytime",
+      "No fasting required"
+    ],
+    "who_should_take": [
+      "Diabetic patients",
+      "Pre-diabetic individuals",
+      "People with diabetes risk factors"
+    ],
+    "frequency": "Every 3–6 months",
+    "notes": "Long-term blood sugar control indicator"
+  }
+}
